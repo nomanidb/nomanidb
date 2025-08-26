@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height='25px'> # Md. Hafizur Rahman Sifat 👋
+  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height='25px'> # M A Noman 👋
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2328a745&size=20&multiline=true&width=515&lines=Welcome+to+MhrSifat's+Github+Profile" alt="Welcome!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2328a745&size=20&multiline=true&width=515&lines=Welcome+to+nomanidb's+Github+Profile" alt="Welcome!"/>
 </div>
 
 🚀 **React & Laravel Developer | PHP, JavaScript, jQuery, Bootstrap 5**
@@ -12,8 +12,8 @@
 
 <p align="center"> 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/mhrsifat/mhrsifat/issues/new"><b>Here</b></a><br>
-or <a href="mailto:mhrsifat@gmail.com" target='_blank'><b>Email</b></a> me
+Ask me anything <a href="https://github.com/nomanidb/nomanidb/issues/new"><b>Here</b></a><br>
+or <a href="mailto:sonarmadina570@gmail.com" target='_blank'><b>Email</b></a> me
 </p>
 
 ## About Me
@@ -76,18 +76,17 @@ I am a passionate **Full-Stack Web Developer** specializing in **React.js** and 
 
 | Project     | Description                    | URL                              |
 |-------------|-------------------------------|---------------------------------|
-| 🛒 Halum Shop | Ecommerce system              | [halum.mhrsifat.xyz](https://halum.mhrsifat.xyz) |
-| 🌟 Portfolio | Personal portfolio website    | [mhrsifat.xyz](https://mhrsifat.xyz)             |
-| 🌦️ Weather App | Real-time weather application | [weather.mhrsifat.xyz](https://weather.mhrsifat.xyz) |
-| 📚 Sanda      | Chatting app (PHP, JS, jQuery) | [sanda.mhrsifat.xyz](https://sanda.mhrsifat.xyz)  |
-| 📁 File Manager | Online file manager          | [cdn.mhrsifat.xyz](https://cdn.mhrsifat.xyz)      |
-
+| 🛒 Hotel Heaven | Hotel Management system   | 
+| 🌟 Portfolio | Personal portfolio website    |             
+| 🌦️Inventory | Ecomerce system |   |
+| Wordpress    | Chatting app (PHP, JS, jQuery) |    |
+|  
 ---
 
 ## 📬 Contact Me
 
-- 📧 Email: [mhrsifat@gmail.com](mailto:mhrsifat@gmail.com)
-- 🌐 Website: [https://mhrsifat.xyz](https://mhrsifat.xyz)
+- 📧 Email: [sonarmadina570@gmail.com](mailto:mhrsifat@gmail.com)
+- 🌐 Website: [https://nomanidb.xyz](https://nomanidb.xyz)
 
 ---
 
