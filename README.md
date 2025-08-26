@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2328a745&size=20&multiline=true&width=515&lines=Welcome+to+Noman's+Github+Profile" alt="Welcome!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2328a745&size=20&multiline=true&width=515&lines=Welcome+to+M A Noman's+Github+Profile" alt="Welcome!"/>
 </div>
 
 🚀 **React & Laravel Developer | PHP, JavaScript, jQuery, Bootstrap 5**
@@ -61,12 +61,12 @@ I am a passionate **Full-Stack Web Developer** specializing in **React.js** and 
 ---
 
 ## 📊 GitHub Stats
-<img src="https://komarev.com/ghpvc/?username=mhrsifat&label=Profile%20views&color=0e75b6&style=flat" width="150" height="30" />
+<img src="https://komarev.com/ghpvc/?username=nomanidb&label=Profile%20views&color=0e75b6&style=flat" width="150" height="30" />
 
 
-![mhrsifat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhrsifat&show_icons=true&theme=react&hide_title=true)
+![nomanidb's GitHub stats](https://github-readme-stats.vercel.app/api?username=nomanidb&show_icons=true&theme=react&hide_title=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhrsifat&theme=react)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nomanidb&theme=react)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhrsifat&layout=compact&theme=react)
 
@@ -76,10 +76,10 @@ I am a passionate **Full-Stack Web Developer** specializing in **React.js** and 
 
 | Project     | Description                    | URL                              |
 |-------------|-------------------------------|---------------------------------|
-| 🛒 Hotel Heaven | Hotel Management system   | 
-| 🌟 Portfolio | Personal portfolio website    |             
-| 🌦️Inventory | Ecomerce system |   |
-| Wordpress    | Chatting app (PHP, JS, jQuery) |    |
+| 🛒 Hotel Heaven | Hotel Management system  (PHP) | 
+| 🌟 Portfolio | Personal portfolio website    | 
+| 🌦️Inventory | Ecomerce system |  (React+php) |
+| Sunflower   | Hospital Management system | (Wordpress)   |
 |  
 ---
 
