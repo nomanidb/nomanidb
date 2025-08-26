@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2328a745&size=20&multiline=true&width=515&lines=Welcome+to+M A Noman's+Github+Profile" alt="Welcome!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2328a745&size=20&multiline=true&width=515&lines=Welcome+to+Noman's+Github+Profile" alt="Welcome!"/>
 </div>
 
 🚀 **React & Laravel Developer | PHP, JavaScript, jQuery, Bootstrap 5**
