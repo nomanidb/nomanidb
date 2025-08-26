@@ -1,24 +1,24 @@
+<!-- Header -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height='25px'> # M A Noman 👋
+  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" height="40px" />
+  <h1>Hi, I'm M A Noman 👋</h1>
+  <p><b>Full-Stack Web Developer | React & Laravel Specialist</b></p>
 </div>
 
+<!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2328a745&size=20&multiline=true&width=515&lines=Welcome+to+M A Noman's+Github+Profile" alt="Welcome!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=28a745&size=22&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile;React+%7C+Laravel+%7C+PHP+%7C+JavaScript;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
-
-🚀 **React & Laravel Developer | PHP, JavaScript, jQuery, Bootstrap 5**
 
 ---
 
-<p align="center"> 
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/nomanidb/nomanidb/issues/new"><b>Here</b></a><br>
-or <a href="mailto:sonarmadina570@gmail.com" target='_blank'><b>Email</b></a> me
-</p>
+## 👨‍💻 About Me
 
-## About Me
+I am a passionate **Full-Stack Web Developer** specializing in **React.js** and **Laravel**.  
+I thrive on building real-world solutions with clean, efficient, and maintainable code.  
+I believe in continuous learning and enjoy tackling challenges head-on to create impactful web applications.
 
-I am a passionate **Full-Stack Web Developer** specializing in **React.js** and **Laravel**. I thrive on building real-world solutions with clean, efficient, and maintainable code. I believe in continuous learning and enjoy tackling challenges head-on to create impactful web applications.
+📫 Reach me at: **[sonarmadina570@gmail.com](mailto:sonarmadina570@gmail.com)**
 
 ---
 
@@ -36,7 +36,6 @@ I am a passionate **Full-Stack Web Developer** specializing in **React.js** and 
 ### Backend
 ![Laravel](https://img.shields.io/badge/Laravel-FC1F24?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -46,9 +45,9 @@ I am a passionate **Full-Stack Web Developer** specializing in **React.js** and 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### Tools & Utilities
 ![cPanel](https://img.shields.io/badge/cPanel-FB6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+
+### Utilities
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
@@ -61,31 +60,32 @@ I am a passionate **Full-Stack Web Developer** specializing in **React.js** and 
 ---
 
 ## 📊 GitHub Stats
-<img src="https://komarev.com/ghpvc/?username=nomanidb&label=Profile%20views&color=0e75b6&style=flat" width="150" height="30" />
+<div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=nomanidb&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-![nomanidb's GitHub stats](https://github-readme-stats.vercel.app/api?username=nomanidb&show_icons=true&theme=react&hide_title=true)
+![nomanidb's GitHub stats](https://github-readme-stats.vercel.app/api?username=nomanidb&show_icons=true&theme=react)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nomanidb&theme=react)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nomanidb&layout=compact&theme=react)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nomanidb&theme=react)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhrsifat&layout=compact&theme=react)
+</div>
 
 ---
 
 ## 🌐 Live Projects
 
-| Project     | Description                    | URL                              |
-|-------------|-------------------------------|---------------------------------|
-| 🛒 Hotel Heaven | Hotel Management system  (PHP) | 
-| 🌟 Portfolio | Personal portfolio website    | 
-| 🌦️Inventory | Ecomerce system |  (React+php) |
-| Sunflower   | Hospital Management system | (Wordpress)   |
-|  
+| Project          | Description                     | Tech Stack        |
+|------------------|---------------------------------|------------------|
+| 🛒 **Hotel Heaven** | Hotel Management System         | PHP               |
+| 🌟 **Portfolio**   | Personal Portfolio Website       | React / PHP       |
+| 🛍️ **Inventory**   | E-commerce System               | React + PHP       |
+| 🏥 **Sunflower**   | Hospital Management System      | WordPress         |
+
 ---
 
 ## 📬 Contact Me
 
-- 📧 Email: [sonarmadina570@gmail.com](mailto:mhrsifat@gmail.com)
+- 📧 Email: [sonarmadina570@gmail.com](mailto:sonarmadina570@gmail.com)  
 - 🌐 Website: [https://nomanidb.xyz](https://nomanidb.xyz)
 
 ---
@@ -96,6 +96,6 @@ I am a passionate **Full-Stack Web Developer** specializing in **React.js** and 
 
 ---
 
-### ⚡️ Let's connect and build something amazing!
-
----
+<div align="center">
+  ⚡️ Let's connect and build something amazing! ⚡️
+</div>
